@@ -1,5 +1,7 @@
 ## Consigne
+```
 mvn clean
+```
 ## Creer un package
 ```
 mvn package
